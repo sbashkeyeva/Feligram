@@ -1,0 +1,64 @@
+.image {
+	width: 20%;
+}
+.image2{
+	width: 20%;
+	float: right;
+	vertical-align: top;
+	margin-right: 25px;
+}
+.image3{
+	width: 20%;
+}
+.phone{
+	position: absolute;
+	top: 40px;
+	right: 2em;
+}
+.ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+.inline-block {
+	display: inline-block;
+}
+.element{
+    font-family: sans-serif;
+    color: #333333;
+    font-size: 14px;
+
+}
+.header{
+	border: 1px solid #000;
+}
+.body{
+	margin-top: 25px;
+}
+.main{
+	border: 1px solid #000;
+	margin-top: 25px;
+	display: inline-block;
+	width: 600px;
+	height: 300px;
+}
+.main2{
+	border: 1px solid #000;
+	display: inline-block;
+	height: 300px;
+	width: 400px;
+}
+.footer{
+	border: 1px solid #000;
+	margin-top: 100px;
+	text-align: center;
+}
+.icon{
+	margin-top: 25px;
+	font-size: 25px;
+}
+.created{
+	text-align: center;
+	font-size: 25px;
+	font-family: "PT Sans", "Arial", serif;
+}
