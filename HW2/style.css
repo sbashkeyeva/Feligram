@@ -38,11 +38,13 @@
 .main{
 	border: 1px solid #000;
 	margin-top: 25px;
+	vertical-align: top;
 	display: inline-block;
 	width: 600px;
 	height: 300px;
 }
 .main2{
+	vertical-align: top;
 	border: 1px solid #000;
 	display: inline-block;
 	height: 300px;
