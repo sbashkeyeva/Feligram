@@ -80,7 +80,9 @@ body{
 .sidebar-content{
 	margin-right: 20.43010752688172%;
 }
-
+.sidebar-image{
+	width: 34%;
+}
 .footer{
 	margin-top: 20px;
 	border: 1px solid;
